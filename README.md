@@ -1,0 +1,1 @@
+This is the repo to test build of PhoneGap build for IOS
